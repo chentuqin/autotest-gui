@@ -1,0 +1,19 @@
+
+
+环境安装：
+1、安装python-3.7.0-amd64.exe 
+
+2、安装pip，解压pip，cmd进入pip目录，执行py -3 setup.py install，更新pip执行py -3 -m pip install --upgrade pip
+
+3、用pip安装setuptools，cmd执行pip3 install setuptools
+
+4、用pip安装selenium，cmd执行pip3 install selenium
+
+5、用pip安装xlrd，cmd执行pip3 install xlrd
+（　python操作excel主要用到xlrd和xlwt这两个库，即xlrd是读excel，xlwt是写excel的库）
+
+6、检查安装情况：pip3 list
+
+7、安装pyHook
+（键盘鼠标监听事件，监测鼠标键盘按键）
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml
